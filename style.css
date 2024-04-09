@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+.box-container {
+    display: flex;
+    justify-content: center;
+}
+
+.inner {
+    margin: 2rem;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+}
+
+.red {
+    background-color: #e76f51;
+}
+
+.blue {
+    background-color: #264653;
+}
+
+.green {
+    background-color: #2a9d8f;
+}
+
+.yellow {
+    background-color: #e9c46a;
+}
+
+.flash {
+    background-color: white;
+}
+.flash1 {
+    border: 10px solid magenta;
+}
+
+.highScore {
+    color: purple;
+}
